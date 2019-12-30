@@ -10,3 +10,5 @@ puts(name)
 happines 0.98
 person_has_car false
 none nil
+
+# This is a comment in Ruby
