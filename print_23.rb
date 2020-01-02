@@ -1,5 +1,3 @@
-name = "hallo i'm slava"
+name = "С Новым годом!"
 
-second_name = "Ruby is cool!"
-
-puts(name*25000+second_name)
+puts(name*2020)
