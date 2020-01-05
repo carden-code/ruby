@@ -1,3 +1,3 @@
-name = "С Новым годом!"
+name = "05.01.2020"
 
-puts(name*2020)
+puts(name)
