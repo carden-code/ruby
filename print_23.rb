@@ -1,3 +1,3 @@
-name = "05.01.2020"
+time1 = Time.new
 
-puts(name)
+puts "Текущее время : " + time1.inspect
