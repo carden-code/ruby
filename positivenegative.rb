@@ -1,4 +1,2 @@
-puts "Введите число (-.+)"
-number = gets.chomp.to_i
-
-puts number.positive? ? "Число положительное" : "Число отрицательное"
+puts 'Enter the number (-. +)'
+puts gets.chomp.to_i.positive? ? 'Number is positive' : 'Number is negative'
