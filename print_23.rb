@@ -1,3 +1,2 @@
 time1 = Time.new
-
-puts "Текущее время : " + time1.inspect
+puts 'Current time :' + time1.inspect
