@@ -1,10 +1,4 @@
-puts "Введите число"
-  number = gets.chomp
-
-if number.to_i%2 == 0
-  puts "Число четное"
-
-else
-  puts  "Число нечетное"
-
-end  
+# The program checks the entered number for even or odd
+puts 'Insert the number'
+number = gets.chomp.to_i
+puts number.even? ? 'Number even' : 'Number odd'
